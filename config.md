@@ -201,7 +201,7 @@ code completions of standard library symbols on an empty file). Sample block
 
 ```
 Index:
-  StandardLibrary: No
+  StandardLibrary: Yes # since clangd-16
 ```
 
 ## Style
